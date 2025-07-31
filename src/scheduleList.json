@@ -1,7 +1,7 @@
 [
   {
     "date": 1,
-    "todos": [],
+    "todos": ["🦁 백엔드스쿨"],
     "isSat": false,
     "isHoliday": false
   },
@@ -19,19 +19,19 @@
   },
   {
     "date": 4,
-    "todos": [],
+    "todos": ["🦁 백엔드스쿨"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 5,
-    "todos": [],
+    "todos": ["🦁 백엔드스쿨", "🕹️ 게임"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 6,
-    "todos": [],
+    "todos": ["🦁 백엔드스쿨"],
     "isSat": false,
     "isHoliday": false
   },
@@ -43,13 +43,13 @@
   },
   {
     "date": 8,
-    "todos": [],
+    "todos": ["🦁 백엔드스쿨"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 9,
-    "todos": [],
+    "todos": ["🚴 자전거여행"],
     "isSat": true,
     "isHoliday": false
   },
@@ -61,7 +61,7 @@
   },
   {
     "date": 11,
-    "todos": [],
+    "todos": ["🧹 청소하기"],
     "isSat": false,
     "isHoliday": false
   },
@@ -73,7 +73,7 @@
   },
   {
     "date": 13,
-    "todos": [],
+    "todos": ["👕 빨래하기"],
     "isSat": false,
     "isHoliday": false
   },
@@ -85,7 +85,7 @@
   },
   {
     "date": 15,
-    "todos": [],
+    "todos": ["🇰🇷 광복절", "🧹 청소하기"],
     "isSat": false,
     "isHoliday": true
   },
@@ -97,13 +97,13 @@
   },
   {
     "date": 17,
-    "todos": [],
+    "todos": ["⚾️ 야구관람"],
     "isSat": false,
     "isHoliday": true
   },
   {
     "date": 18,
-    "todos": [],
+    "todos": ["🧗‍♂️ 암벽등반"],
     "isSat": false,
     "isHoliday": false
   },
@@ -133,13 +133,13 @@
   },
   {
     "date": 23,
-    "todos": [],
+    "todos": ["🧹 청소하기"],
     "isSat": true,
     "isHoliday": false
   },
   {
     "date": 24,
-    "todos": [],
+    "todos": ["🧹 청소하기"],
     "isSat": false,
     "isHoliday": true
   },
@@ -151,37 +151,37 @@
   },
   {
     "date": 26,
-    "todos": [],
+    "todos": ["🏋️‍♂️ 운동하기", "✈️ 여행"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 27,
-    "todos": [],
+    "todos": ["✈️ 여행"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 28,
-    "todos": [],
+    "todos": ["✈️ 여행", "🛍️ 쇼핑하기"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 29,
-    "todos": [],
+    "todos": ["✈️ 여행"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 30,
-    "todos": [],
+    "todos": ["✈️ 여행"],
     "isSat": true,
     "isHoliday": false
   },
   {
     "date": 31,
-    "todos": [],
+    "todos": ["🍪 요리하기", "🚶 산책하기"],
     "isSat": false,
     "isHoliday": true
   }
